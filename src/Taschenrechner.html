@@ -1,0 +1,98 @@
+<html>
+<head>
+<title>Taschenrechner</title>
+<script type="text/javascript">
+function Check (Eingabe) {
+  var nur_das = "0123456789[]()-+*%/.";
+  for (var i = 0; i < Eingabe.length; i++)
+    if (nur_das.indexOf(Eingabe.charAt(i)) < 0)
+      return false;
+  return true;
+}
+
+function Ergebnis () {
+  var x = 0;
+  if (Check(window.document.Rechner.Display.value))
+    x = eval(window.document.Rechner.Display.value);
+  window.document.Rechner.Display.value = x;
+}
+
+function Hinzufuegen (Zeichen) {
+  window.document.Rechner.Display.value = window.document.Rechner.Display.value + Zeichen;
+}
+
+function Sonderfunktion (Funktion) {
+  if (Check(window.document.Rechner.Display.value)) {
+    if (Funktion == "sqrt") {
+      var x = 0;
+      x = eval(window.document.Rechner.Display.value);
+      window.document.Rechner.Display.value = Math.sqrt(x);
+    }
+    if (Funktion == "pow") {
+      var x = 0;
+      x = eval(window.document.Rechner.Display.value);
+      window.document.Rechner.Display.value = x * x;
+    }
+    if (Funktion == "ln") {
+      var x = 0;
+      x = eval(window.document.Rechner.Display.value);
+      window.document.Rechner.Display.value = Math.log(x);
+    }
+  } else
+    window.document.Rechner.Display.value = 0}
+</script>
+<style type="text/css">
+.button {  width:60px; text-align:center;
+           font-family:System,sans-serif;
+           font-size:100%; }
+.display { width:100%; text-align:right;
+           font-family:System,sans-serif;
+           font-size:100%; }
+</style>
+</head>
+<body bgcolor="#FFFFE0">
+
+<form name="Rechner" action="" onsubmit="Ergebnis();return false;">
+<table border="5" cellpadding="10" cellspacing="0">
+<tr>
+<td bgcolor="#C0C0C0">
+<input type="text" name="Display" align="right" class="display"></td>
+</tr><tr>
+<td  bgcolor="#E0E0E0">
+<table border="0" cellpadding="0" cellspacing="2">
+<tr>
+<td><input type="button" width="60" class="button" value="  7   " onclick="Hinzufuegen('7')"></td>
+<td><input type="button" width="60" class="button" value="  8   " onclick="Hinzufuegen('8')"></td>
+<td><input type="button" width="60" class="button" value="  9   " onclick="Hinzufuegen('9')"></td>
+<td><input type="button" width="60" class="button" value="  +   " onclick="Hinzufuegen('+')"></td>
+</tr>
+<tr>
+<td><input type="button" width="60" class="button" value="  4   " onclick="Hinzufuegen('4')"></td>
+<td><input type="button" width="60" class="button" value="  5   " onclick="Hinzufuegen('5')"></td>
+<td><input type="button" width="60" class="button" value="  6   " onclick="Hinzufuegen('6')"></td>
+<td><input type="button" width="60" class="button" value="  -   " onclick="Hinzufuegen('-')"></td>
+</tr>
+<tr>
+<td><input type="button" width="60" class="button" value="  1   " onclick="Hinzufuegen('1')"></td>
+<td><input type="button" width="60" class="button" value="  2   " onclick="Hinzufuegen('2')"></td>
+<td><input type="button" width="60" class="button" value="  3   " onclick="Hinzufuegen('3')"></td>
+<td><input type="button" width="60" class="button" value="  *   " onclick="Hinzufuegen('*')"></td>
+</tr>
+<tr>
+<td><input type="button" width="60" class="button" value="  0   " onclick="Hinzufuegen('0')"></td>
+<td><input type="button" width="60" class="button" value="  .   " onclick="Hinzufuegen('.')"></td>
+<td><input type="button" width="60" class="button" value="  =   " onclick="Ergebnis()"></td>
+<td><input type="button" width="60" class="button" value="  /   " onclick="Hinzufuegen('/')"></td>
+</tr>
+<tr>
+<td><input type="button" width="60" class="button" value="sqrt " onclick="Sonderfunktion('sqrt')"></td>
+<td><input type="button" width="60" class="button" value=" pow " onclick="Sonderfunktion('pow')"></td>
+<td><input type="button" width="60" class="button" value=" ln " onclick="Sonderfunktion('ln')"></td>
+<td><input type="reset"  width="60" class="button" value="  C  "></td>
+</tr>
+</table>
+</td></tr></table>
+</form>
+
+</body>
+</html>
