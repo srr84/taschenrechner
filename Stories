@@ -16,7 +16,7 @@ Given the calculator is in default state
 And a 5 is shown
 And a + is shown
 And a 5 is shown
-When the user clicks + Button
+When the user clicks = Button
 Then the result is 10
 
 Scenario: Subtract two values
@@ -24,7 +24,7 @@ Given the calculator is in default state
 And a 9 is shown
 And a - is shown
 And a 5 is shown
-When the user clicks - Button
+When the user clicks = Button
 Then the result is 4
 
 Scenario: Multiply two values
@@ -32,7 +32,7 @@ Given the calculator is in default state
 And a 9 is shown
 And a * is shown
 And a 5 is shown
-When the user clicks * Button
+When the user clicks = Button
 Then the result is 45
 
 Scenario: Division of two values
@@ -40,7 +40,7 @@ Given the calculator is in default state
 And a 10 is shown
 And a / is shown
 And a 5 is shown
-When the user clicks / Button
+When the user clicks = Button
 Then the result is 2
 
 Scenario: Pow of a value

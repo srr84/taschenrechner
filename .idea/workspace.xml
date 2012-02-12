@@ -1,8 +1,256 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b7183f1-f0d2-4c10-bb7d-0cef9cf05016" name="Default" comment="" />
-    <ignored path="taschenrechner.iws" />
+    <list default="true" id="cc62fec6-49de-4b9c-9869-5c3342abd88e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_dep_4_8_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_wicket_wicket_core_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_wicket_wicket_extensions_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_wicket_wicket_guice_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_wicket_wicket_ioc_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_wicket_wicket_request_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_wicket_wicket_util_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_wicket_wicket_velocity_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_2_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jbehave_jbehave_core_3_4_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jbehave_web_jbehave_web_io_3_4_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jbehave_web_jbehave_web_runner_3_4_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jbehave_web_jbehave_web_selenium_3_4_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GuiTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-test/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-test/taschenrechner.story" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/src/main/java/com/taschenrechner/TaschenrechnerStories.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/src/main/java/com/taschenrechner/pagemodel/AbstractPage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/src/main/java/com/taschenrechner/pagemodel/Pages.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/src/main/java/com/taschenrechner/pagemodel/SetupPageModel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/src/main/java/com/taschenrechner/pagemodel/TaschenrechnerPageModel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/src/main/java/com/taschenrechner/steps/TaschenrechnerSteps.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave-bdd-tutorial-0.0.1-SNAPSHOT/WEB-INF/classes/com/hascode/tutorial/AddProductToShoppingCart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave-bdd-tutorial-0.0.1-SNAPSHOT/WEB-INF/classes/com/hascode/tutorial/AddUserToRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave-bdd-tutorial-0.0.1-SNAPSHOT/WEB-INF/classes/com/hascode/tutorial/Pages.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave-bdd-tutorial-0.0.1-SNAPSHOT/WEB-INF/classes/com/hascode/tutorial/Product.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave-bdd-tutorial-0.0.1-SNAPSHOT/WEB-INF/classes/com/hascode/tutorial/SearchPopularSearchEngine.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave-bdd-tutorial-0.0.1-SNAPSHOT/WEB-INF/classes/com/hascode/tutorial/SearchPopularSearchEngineSteps.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave-bdd-tutorial-0.0.1-SNAPSHOT/WEB-INF/classes/com/hascode/tutorial/SearchPopularSearchEngineWebdriver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave-bdd-tutorial-0.0.1-SNAPSHOT/WEB-INF/classes/com/hascode/tutorial/ShoppingCart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave-bdd-tutorial-0.0.1-SNAPSHOT/WEB-INF/classes/com/hascode/tutorial/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave-bdd-tutorial-0.0.1-SNAPSHOT/WEB-INF/classes/com/hascode/tutorial/UserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave-bdd-tutorial-0.0.1-SNAPSHOT/WEB-INF/classes/com/hascode/tutorial/add_product_to_shopping_cart.story" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave-bdd-tutorial-0.0.1-SNAPSHOT/WEB-INF/classes/com/hascode/tutorial/add_user_to_repository.story" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave-bdd-tutorial-0.0.1-SNAPSHOT/WEB-INF/classes/com/hascode/tutorial/runner/TutorialRunnerApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave-bdd-tutorial-0.0.1-SNAPSHOT/WEB-INF/classes/com/hascode/tutorial/search_popular_search_engine.story" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/AfterStories.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/AfterStories.stats" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/BeforeStories.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/BeforeStories.stats" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/com.hascode.tutorial.search_popular_search_engine.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/com.hascode.tutorial.search_popular_search_engine.stats" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/com.hascode.tutorial.taschenrechner.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/com.hascode.tutorial.taschenrechner.stats" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/screenshots/failed-scenario-0f323bd7-db99-482c-a12f-a0f223496c4e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/screenshots/failed-scenario-133dbe84-fc32-46f5-879d-a7234687b348.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/screenshots/failed-scenario-1482c3ef-1941-43b2-93fd-6d671aca3ab1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/screenshots/failed-scenario-1fabf7fd-6840-4d37-9b7d-5cd35c2a8f83.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/screenshots/failed-scenario-5180449d-bf94-4e62-bf15-de55b19f9271.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/screenshots/failed-scenario-5cad909c-8e8f-4ee1-b926-3e198b0dff09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/screenshots/failed-scenario-67ee3f4b-5191-4ab0-8d91-f2fe39afc68d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/screenshots/failed-scenario-6ac69b6d-f272-4bc2-8035-95a37048186c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/screenshots/failed-scenario-7bad8c5a-ef23-4f27-a878-cd501b437a86.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/screenshots/failed-scenario-8335c000-7fa6-484c-910b-f91ce0aaac8f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/screenshots/failed-scenario-9d528549-b8c6-4801-ae44-64952eeb94c5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/screenshots/failed-scenario-e18ede7e-45c0-4efb-b5fe-4a59b46739ca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/screenshots/failed-scenario-fd8d64d5-75da-419f-bcd8-b4af8bc463d7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/view/AfterStories.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/view/AfterStories.stats.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/view/BeforeStories.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/view/BeforeStories.stats.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/view/com.hascode.tutorial.search_popular_search_engine.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/view/com.hascode.tutorial.search_popular_search_engine.stats.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/view/com.hascode.tutorial.taschenrechner.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/view/com.hascode.tutorial.taschenrechner.stats.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/view/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/view/reports.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave/view/xref.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/ant.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__bouncycastle_bcprov_jdk15_135.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__junit_junit_4_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__mx4j_mx4j_tools_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_6_1_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_2_19_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_yaml_snakeyaml_1_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/jbehave-core-3.5.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/apache-mime4j-0.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/bsh-1.3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/cglib-nodep-2.1_3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/commons-codec-1.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/commons-collections-3.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/commons-exec-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/commons-io-2.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/commons-jxpath-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/commons-lang-2.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/commons-logging-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/cssparser-0.9.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/guava-11.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/hamcrest-all-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/htmlunit-2.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/htmlunit-core-js-2.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/httpclient-4.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/httpcore-4.1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/httpmime-4.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/ini4j-0.5.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/jcommander-1.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/jna-3.4.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/jna-platform-3.4.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/json-20080701.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/junit-dep-4.10.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/nekohtml-1.9.15.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/operadriver-v0.10.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/protobuf-java-2.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/sac-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/serializer-2.7.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/testng-6.0.1-nobsh-noguice.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/xalan-2.7.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/xercesImpl-2.9.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/libs/xml-apis-1.3.04.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/selenium-java-2.19.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/lib/selenium-server-standalone-2.19.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/src/GuiTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/src/PageModel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/src/Setup.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gui-test - Kopie/tests/tests.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/.idea/libraries/selenium_server_standalone_2_19_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/guitests.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/jbehave-core-3.5.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/apache-mime4j-0.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/bsh-1.3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/cglib-nodep-2.1_3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/commons-codec-1.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/commons-collections-3.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/commons-exec-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/commons-io-2.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/commons-jxpath-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/commons-lang-2.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/commons-logging-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/cssparser-0.9.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/guava-11.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/hamcrest-all-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/htmlunit-2.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/htmlunit-core-js-2.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/httpclient-4.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/httpcore-4.1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/httpmime-4.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/ini4j-0.5.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/jcommander-1.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/jna-3.4.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/jna-platform-3.4.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/json-20080701.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/junit-dep-4.10.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/nekohtml-1.9.15.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/operadriver-v0.10.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/protobuf-java-2.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/sac-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/serializer-2.7.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/testng-6.0.1-nobsh-noguice.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/xalan-2.7.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/xercesImpl-2.9.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/libs/xml-apis-1.3.04.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/selenium-java-2.19.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/lib/selenium-server-standalone-2.19.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/out/production/guitests/GuiTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/out/production/guitests/PageModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/out/production/guitests/Setup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/src/GuiTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/src/PageModel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guitests/src/Setup.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ide.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jbehave-core-3.5.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/Taschenrechner.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/javascript/Player.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/javascript/Song.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/javascript/Taschenrechner.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/javascript/TaschenrechnerSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/javascript/taschenrechnerSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taschenrechner.iml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__com_google_guava_guava_11_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_11_0_1.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__commons_io_commons_io_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_4.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__net_java_dev_jna_jna_3_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_3_4_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__net_java_dev_jna_platform_3_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_platform_3_4_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_5.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_9.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_9.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_15.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_15.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_apache_commons_commons_exec_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_1.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_1_2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_1.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_json_json_20080701.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20080701.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_android_driver_2_19_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_android_driver_2_19_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_19_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_19_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_19_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_19_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_19_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_19_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_19_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_19_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_19_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_19_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_iphone_driver_2_19_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_iphone_driver_2_19_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_19_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_19_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_19_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_19_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_19_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_19_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__xalan_serializer_2_7_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_1.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__xalan_xalan_2_7_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_1.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__xerces_xercesImpl_2_9_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_9_1.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gui-test - Kopie/gui-test.iml" afterPath="$PROJECT_DIR$/acceptance-tests/acceptance-tests.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/guitests/.idea/ant.xml" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/acceptance-tests/target/jbehave-bdd-tutorial-0.0.1-SNAPSHOT.war" afterPath="$PROJECT_DIR$/acceptance-tests/target/jbehave-bdd-tutorial-0.0.1-SNAPSHOT.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/acceptance-tests/pom.xml" afterPath="$PROJECT_DIR$/acceptance-tests/pom.xml" />
+    </list>
+    <ignored path="TaschenrechnerProjekt.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +302,40 @@
     <ui_properties />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="taschenrechner" />
+    <favorites_list name="TaschenrechnerProjekt" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="taschenrechner.story" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/acceptance-tests/src/main/resources/com/hascode/tutorial/taschenrechner.story">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="13" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaschenrechnerStories.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/acceptance-tests/src/main/java/com/hascode/tutorial/TaschenrechnerStories.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="13" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaschenrechnerPageModel.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/acceptance-tests/src/main/java/com/hascode/tutorial/pagemodel/TaschenrechnerPageModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="97" column="39" selection-start="3532" selection-end="3532" vertical-scroll-proportion="0.2917342">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -66,19 +347,33 @@
     <option name="UPDATE_CHANGES_POLICY" value="STASH" />
     <option name="LINE_SEPARATORS_CONVERSION" value="ASK" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1280" />
-    <option name="height" value="732" />
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/acceptance-tests/src/main/java/com/taschenrechner/TaschenrechnerStories.java" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="keepSourceFolders" value="false" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1280" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -101,13 +396,13 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="taschenrechner" />
+              <option name="myItemId" value="TaschenrechnerProjekt" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="taschenrechner" />
+              <option name="myItemId" value="TaschenrechnerProjekt" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -115,21 +410,239 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TaschenrechnerProjekt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taschenrechner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="acceptance-tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TaschenrechnerProjekt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taschenrechner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="acceptance-tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TaschenrechnerProjekt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taschenrechner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="acceptance-tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TaschenrechnerProjekt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taschenrechner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="acceptance-tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TaschenrechnerProjekt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taschenrechner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="acceptance-tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TaschenrechnerProjekt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taschenrechner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="acceptance-tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="steps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TaschenrechnerProjekt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taschenrechner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="acceptance-tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pagemodel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propVCSSupport.VCSs.Git" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TaschenrechnerStories">
+    <configuration default="false" name="TaschenrechnerStories" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="acceptance-tests" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.hascode.tutorial" />
+      <option name="MAIN_CLASS_NAME" value="com.hascode.tutorial.TaschenrechnerStories" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -150,24 +663,6 @@
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
@@ -196,6 +691,24 @@
       <envs />
       <properties />
       <listeners />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
@@ -247,22 +760,42 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <list size="0" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TaschenrechnerStories" />
+    </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <configuration useDefault="false">$USER_HOME$/.subversion_IDEA</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <created>1328379870002</created>
-      <updated>1328379870002</updated>
+      <created>1329081580021</created>
+      <updated>1329081580021</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="732" extended-state="0" />
+    <frame x="1280" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -272,12 +805,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18623266" sideWeight="0.67013526" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -335,6 +869,65 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/acceptance-tests/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acceptance-tests/src/main/java/com/hascode/tutorial/steps/TaschenrechnerSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="403" selection-end="403" vertical-scroll-proportion="0.09724473">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acceptance-tests/src/main/java/com/hascode/tutorial/pagemodel/Pages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="106" selection-end="106" vertical-scroll-proportion="0.09724473">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acceptance-tests/src/main/java/com/hascode/tutorial/pagemodel/AbstractPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="308" selection-end="308" vertical-scroll-proportion="0.2917342">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acceptance-tests/src/main/resources/com/hascode/tutorial/taschenrechner.story">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acceptance-tests/src/main/java/com/hascode/tutorial/TaschenrechnerStories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="13" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acceptance-tests/src/main/java/com/hascode/tutorial/pagemodel/TaschenrechnerPageModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="39" selection-start="3532" selection-end="3532" vertical-scroll-proportion="0.2917342">
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
 

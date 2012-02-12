@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/taschenrechner.iml" filepath="$PROJECT_DIR$/taschenrechner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaschenrechnerProjekt.iml" filepath="$PROJECT_DIR$/TaschenrechnerProjekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acceptance-tests/acceptance-tests.iml" filepath="$PROJECT_DIR$/acceptance-tests/acceptance-tests.iml" />
     </modules>
   </component>
 </project>
