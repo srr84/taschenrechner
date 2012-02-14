@@ -2,28 +2,22 @@
                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
         <modelVersion>4.0.0</modelVersion>
-        <groupId>TaschenrechnerProjekt</groupId>
-        <artifactId>TaschenrechnerProjekt</artifactId>
+        <groupId>org.sven.ruchti</groupId>
+        <artifactId>taschenrechner</artifactId>
         <version>1.0</version>
-        <build>
-			<plugins>
-			  <plugin>
-				<groupId>com.github.searls</groupId>
-				<artifactId>jasmine-maven-plugin</artifactId>
-				<version>1.1.0</version>
-				<executions>
-				  <execution>
-					<goals>
-					  <goal>test</goal>
-					</goals>
-				  </execution>
-				</executions>
-				<configuration>
-					<jsSrcDir>${project.basedir}/src</jsSrcDir>
-					<jsTestSrcDir>${project.basedir}/unit-tests</jsTestSrcDir>
-					<include>*Spec.js</include>-->
-				</configuration>
-			  </plugin>		
-			</plugins>
-  		</build>
+        <packaging>pom</packaging>
+        
+        <!-- Needed for Acceptance and Gui Tests -->
+        <dependencies>
+			<dependency>
+			  <groupId>junit</groupId>
+			  <artifactId>junit</artifactId>
+			  <version>4.8.1</version>
+			</dependency>
+			<dependency>
+                <groupId>org.seleniumhq.selenium</groupId>
+                <artifactId>selenium-java</artifactId>
+                <version>2.19.0</version>
+            </dependency>
+		</dependencies>
 </project>

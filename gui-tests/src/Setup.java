@@ -16,7 +16,7 @@ public class Setup {
 
     private static WebDriver driver = new FirefoxDriver();
     private static WebDriverWait wait = new WebDriverWait(driver, 10);
-    private static final String URL = "file:///C:/Users/Ruchti/Desktop/My%20Dropbox/Master%20Thesis/taschenrechner/src/main/Taschenrechner.html";
+    private static final String URL = "file://localhost/Users/svenruchti/Dropbox/Master%20Thesis/taschenrechner/src/Taschenrechner.html";
 
     public static void setup() {
 
