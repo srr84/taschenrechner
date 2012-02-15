@@ -7,6 +7,12 @@
         <version>1.0</version>
         <packaging>pom</packaging>
         
+        <modules>
+			<module>unit-tests</module>
+			<module>acceptance-tests</module>
+			<module>gui-tests</module>
+		</modules>
+        
         <!-- Needed for Acceptance and Gui Tests -->
         <dependencies>
 			<dependency>

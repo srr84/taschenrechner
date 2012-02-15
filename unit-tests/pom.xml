@@ -8,12 +8,10 @@
 			<groupId>org.sven.ruchti</groupId>
 			<artifactId>taschenrechner</artifactId>
 			<version>1.0</version>
-			<!--<relativePath>../taschenrechner/pom.xml</relativePath>-->
 		</parent>
 		
+		<artifactId>unit-tests</artifactId>
 		
-		
-		<artifactId>unit-tests</artifactId>		
         <build>
 			<plugins>
 			  <plugin>
