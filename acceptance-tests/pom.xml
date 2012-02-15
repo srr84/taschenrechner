@@ -69,7 +69,6 @@
 						</goals>
 						<configuration>
 							<outputDirectory>${project.build.directory}/resources</outputDirectory>
-
 							<overWriteReleases>true</overWriteReleases>
 							<overWriteSnapshots>true</overWriteSnapshots>
 							<excludes>**/*.class</excludes>
