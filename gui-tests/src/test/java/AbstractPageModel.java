@@ -22,7 +22,7 @@ public abstract class AbstractPageModel {
     private static Logger logger = getLogger(AbstractPageModel.class);
     protected static WebDriver driver = new FirefoxDriver();
     protected static WebDriverWait wait = new WebDriverWait(driver, 10);
-    protected static final String URL = "file:///Users/Shared/Jenkins/Home/workspace/GUI_Tests/src/Taschenrechner.html"
+    protected static final String URL = "file:///Users/Shared/Jenkins/Home/workspace/GUI_Tests/src/Taschenrechner.html";
     //For local tests inside the Dropbox Folder
     //protected static final String URL = "file://localhost/Users/svenruchti/Dropbox/Master%20Thesis/taschenrechner/src/Taschenrechner.html";
 
