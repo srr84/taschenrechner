@@ -1,10 +1,15 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.hascode.tutorial</groupId>
-	<artifactId>jbehave-bdd-tutorial</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>hasCode.com jbehave BDD tutorial</name>
+    
+    <!-- For inheritence -->
+    <parent>
+        <groupId>org.sven.ruchti</groupId>
+        <artifactId>taschenrechner</artifactId>
+        <version>1.0</version>
+    </parent>
+
+    <artifactId>acceptance-tests</artifactId>
 	<packaging>war</packaging>
 
 	<properties>
@@ -29,21 +34,12 @@
 			<artifactId>jbehave-web-selenium</artifactId>
 			<version>${jbehave.core.version}</version>
 		</dependency>
-		<!-- <dependency>
-			<groupId>org.seleniumhq.selenium.client-drivers</groupId>
-			<artifactId>selenium-java-client-driver</artifactId>
-			<version>1.0.2</version>
-		</dependency> -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
 			<version>2.19.0</version>
     	</dependency> 
-		<!-- <dependency>
-			<groupId>org.seleniumhq.selenium</groupId>
-			<artifactId>selenium-server</artifactId>
-			<version>2.19.0</version>
-    	</dependency> -->
+
 	</dependencies>
 
 	<build>
@@ -92,7 +88,6 @@
 						<id>copy-custom-resources</id>
 						<phase>process-resources</phase>
 						<goals>
-
 							<goal>copy-resources</goal>
 						</goals>
 						<configuration>

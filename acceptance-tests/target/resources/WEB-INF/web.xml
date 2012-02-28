@@ -11,7 +11,7 @@
     <servlet-class>org.apache.wicket.protocol.http.WicketServlet</servlet-class>
     <init-param>
       <param-name>applicationClassName</param-name>
-      <param-value>com.hascode.tutorial.runner.TutorialRunnerApplication</param-value>
+      <param-value>com.hascode.ruchti.runner.TutorialRunnerApplication</param-value>
     </init-param>
   </servlet>
 
