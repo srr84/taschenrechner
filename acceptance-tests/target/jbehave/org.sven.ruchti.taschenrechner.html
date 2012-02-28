@@ -1,0 +1,83 @@
+<div class="story">
+<h1></h1>
+<div class="path">org/sven/ruchti/taschenrechner.story</div>
+<div class="scenario">
+<h2>Scenario: Click a number</h2>
+<div class="step successful">Given the calculator is in default state</div>
+<div class="step successful">When the user clicks number <span class="step parameter">0</span> Button</div>
+<div class="step successful">And the user clicks number <span class="step parameter">1</span> Button</div>
+<div class="step successful">And the user clicks number <span class="step parameter">2</span> Button</div>
+<div class="step successful">And the user clicks number <span class="step parameter">3</span> Button</div>
+<div class="step successful">And the user clicks number <span class="step parameter">4</span> Button</div>
+<div class="step successful">And the user clicks number <span class="step parameter">5</span> Button</div>
+<div class="step successful">And the user clicks number <span class="step parameter">6</span> Button</div>
+<div class="step successful">And the user clicks number <span class="step parameter">7</span> Button</div>
+<div class="step successful">And the user clicks number <span class="step parameter">8</span> Button</div>
+<div class="step successful">And the user clicks number <span class="step parameter">9</span> Button</div>
+<div class="step successful">And the user clicks dot Button</div>
+<div class="step successful">Then the result is <span class="step parameter">0123456789.</span></div>
+</div>
+<div class="scenario">
+<h2>Scenario: Delete a value</h2>
+<div class="step successful">Given the calculator has <span class="step parameter">values</span> inside the input field</div>
+<div class="step successful">When C is clicked</div>
+<div class="step successful">Then the input field is empty</div>
+</div>
+<div class="scenario">
+<h2>Scenario: Add two values</h2>
+<div class="step successful">Given the calculator is in default state</div>
+<div class="step successful">And a <span class="step parameter">5</span> is shown</div>
+<div class="step successful">And a <span class="step parameter">+</span> is shown</div>
+<div class="step successful">And a <span class="step parameter">5</span> is shown</div>
+<div class="step successful">When the user clicks = Button</div>
+<div class="step successful">Then the result is <span class="step parameter">10</span></div>
+</div>
+<div class="scenario">
+<h2>Scenario: Subtract two values</h2>
+<div class="step successful">Given the calculator is in default state</div>
+<div class="step successful">And a <span class="step parameter">9</span> is shown</div>
+<div class="step successful">And a <span class="step parameter">-</span> is shown</div>
+<div class="step successful">And a <span class="step parameter">5</span> is shown</div>
+<div class="step successful">When the user clicks = Button</div>
+<div class="step successful">Then the result is <span class="step parameter">4</span></div>
+</div>
+<div class="scenario">
+<h2>Scenario: Multiply two values</h2>
+<div class="step successful">Given the calculator is in default state</div>
+<div class="step successful">And a <span class="step parameter">9</span> is shown</div>
+<div class="step successful">And a <span class="step parameter">*</span> is shown</div>
+<div class="step successful">And a <span class="step parameter">5</span> is shown</div>
+<div class="step successful">When the user clicks = Button</div>
+<div class="step successful">Then the result is <span class="step parameter">45</span></div>
+</div>
+<div class="scenario">
+<h2>Scenario: Division of two values</h2>
+<div class="step successful">Given the calculator is in default state</div>
+<div class="step successful">And a <span class="step parameter">10</span> is shown</div>
+<div class="step successful">And a <span class="step parameter">/</span> is shown</div>
+<div class="step successful">And a <span class="step parameter">5</span> is shown</div>
+<div class="step successful">When the user clicks = Button</div>
+<div class="step successful">Then the result is <span class="step parameter">2</span></div>
+</div>
+<div class="scenario">
+<h2>Scenario: Pow of a value</h2>
+<div class="step successful">Given the calculator is in default state</div>
+<div class="step successful">And a <span class="step parameter">9</span> is shown</div>
+<div class="step successful">When the user clicks pow Button</div>
+<div class="step successful">Then the result is <span class="step parameter">81</span></div>
+</div>
+<div class="scenario">
+<h2>Scenario: Squareroot of a value</h2>
+<div class="step successful">Given the calculator is in default state</div>
+<div class="step successful">And a <span class="step parameter">9</span> is shown</div>
+<div class="step successful">When the user clicks sqrt Button</div>
+<div class="step successful">Then the result is <span class="step parameter">3</span></div>
+</div>
+<div class="scenario">
+<h2>Scenario: Logaritmus of a value</h2>
+<div class="step successful">Given the calculator is in default state</div>
+<div class="step successful">And a <span class="step parameter">1</span> is shown</div>
+<div class="step successful">When the user clicks ln Button</div>
+<div class="step successful">Then the result is <span class="step parameter">0</span></div>
+</div>
+</div>

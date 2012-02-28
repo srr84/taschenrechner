@@ -18,7 +18,7 @@ public class SetupPageModel extends AbstractPage {
     }
 
     public void open () {
-
-        get("file://localhost/Users/svenruchti/Dropbox/Master_Thesis/taschenrechner/src/Taschenrechner.html");
+		//This the url for the jenkins job, please change that locally!!!
+        get("file://file:///Users/Shared/Jenkins/Home/workspace/Akzeptanz_Tests/src/Taschenrechner.html");
     }
 }

@@ -39,7 +39,6 @@
 			<artifactId>selenium-java</artifactId>
 			<version>2.19.0</version>
     	</dependency> 
-
 	</dependencies>
 
 	<build>
@@ -52,6 +51,29 @@
 					<target>1.6</target>
 				</configuration>
 			</plugin>
+			
+			<plugin>
+				<groupId>org.jbehave</groupId>
+				<artifactId>jbehave-maven-plugin</artifactId>
+				<version>${jbehave.core.version}</version>
+				<executions>
+					<execution>
+						<id>run-stories-as-embeddables</id>
+						<phase>integration-test</phase>
+						<configuration>
+						  <includes>
+							<include>**/*Scenarios.java</include>
+						  </includes>
+						  <ignoreFailureInStories>true</ignoreFailureInStories>
+						  <ignoreFailureInView>false</ignoreFailureInView>
+					   </configuration>
+					   <goals>
+						  <goal>run-stories-as-embeddables</goal>
+					   </goals>
+					 </execution>
+				</executions>
+			</plugin>
+			
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-dependency-plugin</artifactId>
@@ -101,6 +123,8 @@
 							</resources>
 						</configuration>
 					</execution>
+					
+					
 				</executions>
 			</plugin>
 			<plugin>
@@ -117,15 +141,19 @@
 				</configuration>
 			</plugin>
 			<plugin>
-				<groupId>org.mortbay.jetty</groupId>
-				<artifactId>jetty-maven-plugin</artifactId>
-				<configuration>
-					<webAppConfig>
-
-						<contextPath>/${jbehave.webapp.name}</contextPath>
-					</webAppConfig>
-					<webApp>${project.build.directory}/${jbehave.webapp.name}.war</webApp>
-				</configuration>
+			  <groupId>org.mortbay.jetty</groupId>
+			  <artifactId>maven-jetty-plugin</artifactId>
+			  <configuration>
+				<scanIntervalSeconds>10</scanIntervalSeconds>
+				<connectors>
+				  <connector implementation="org.mortbay.jetty.nio.SelectChannelConnector">
+					<port>8081</port>
+				  </connector>
+				</connectors>
+				<webAppConfig>
+				  <contextPath>/</contextPath>
+				</webAppConfig>
+			  </configuration>
 			</plugin>
 		</plugins>
 	</build>

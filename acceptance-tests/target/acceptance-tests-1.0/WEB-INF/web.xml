@@ -4,14 +4,14 @@
   xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
   version="2.5">
 
-  <display-name>hasCode.com - JBehave WebRunner Example</display-name>
+  <display-name>org.sven.ruchti - JBehave WebRunner</display-name>
 
   <servlet>
     <servlet-name>wicket</servlet-name>
     <servlet-class>org.apache.wicket.protocol.http.WicketServlet</servlet-class>
     <init-param>
       <param-name>applicationClassName</param-name>
-      <param-value>com.hascode.ruchti.runner.TutorialRunnerApplication</param-value>
+      <param-value>org.sven.ruchti.runner.TutorialRunnerApplication</param-value>
     </init-param>
   </servlet>
 
